@@ -14,8 +14,8 @@ In 2023, I decided to radically change my life by enrolling in School 21, a Savi
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&border-radius=5)](https://www.postgresql.org/)
 
 ## Contacts 📫
-* Email: dmitri.khramtsov@gmail.com
 * Telegram: [@lonmouth](https://t.me/lonmouth)
+* Email: dmitri.khramtsov@gmail.com
 
 <!--
 **Dmitrii-Khramtsov/Dmitrii-Khramtsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
