@@ -5,10 +5,13 @@ In 2023, I decided to radically change my life by enrolling in School 21, a Savi
 ### I am currently a student at School 21 🌱
 
 ### Languages and Tools 🔭
-Golang C++ C PostgreSQL
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ## Contacts 📫
-Email: dmitri.khramtsov@gmail.com
+Email: dmitri.khramtsov@gmail.com /
 Telegram: [@lonmouth](https://t.me/lonmouth)
 
 <!--
