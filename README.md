@@ -4,7 +4,7 @@ In 2023, I decided to radically change my life by enrolling in School 21, a Savi
 
 #### I am currently a student at School 21 🌱
 
-* [](https://21-school.ru/)
+* [School 21](https://21-school.ru/)
 
 #### Languages and Tools 🔭
 
