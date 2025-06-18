@@ -2,7 +2,7 @@
 
 In 2023, I radically changed my life by enrolling in School 21—an innovative educational project for developers. Despite having no prior programming experience, I immersed myself fully in my studies. The structured program not only provided fundamental skills but also cultivated creative thinking and problem-solving abilities. This experience marked a turning point: I transformed from a beginner into an enthusiastic coder, confidently growing in the profession. Today, I take pride in my achievements and continue striving for new heights in technology.
 
-#### I am currently a student at [School 21](https://21-school.ru/) 🌱
+#### I’m currently completing my studies at [School 21](https://21-school.ru/) 🌱
 
 #### Languages and Tools 🔭
 
