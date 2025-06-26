@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-In 2023, I radically changed my life by enrolling in School 21—an innovative educational project for developers. Despite having no prior programming experience, I immersed myself fully in my studies. The structured program not only provided fundamental skills but also cultivated creative thinking and problem-solving abilities. This experience marked a turning point: I transformed from a beginner into an enthusiastic coder, confidently growing in the profession. Today, I take pride in my achievements and continue striving for new heights in technology.
+#### Backend developer with an engineering and creative background ⚡
 
-#### I’m currently completing my studies at [School 21](https://21-school.ru/) 🌱
+💻 At [School 21](https://21-school.ru/) (School 42, Russia), I built 40+ projects in C, C++ and Go — from system tools to backend services  
+🌱 Currently focused on Go development  
+🎓 Graduate of [BMSTU](https://bmstu.ru/) and [Moscow Conservatory](https://www.mosconsv.ru/)
 
 #### Languages and Tools 🔭
 
